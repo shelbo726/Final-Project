@@ -1,4 +1,4 @@
-[![Image name](C:\Users\shelb\Desktop\polarbear.png)]
+[![Polar Bear](C:\Users\shelb\Desktop\polarbear.png)]
 
 # Polar Bear 
 This image is a polar bear 
