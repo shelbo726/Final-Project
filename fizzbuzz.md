@@ -1,3 +1,5 @@
+**Link to readme.md**
+[readme.md](https://github.com/shelbo726/Final-Project/blob/main/README.md).
 <!DOCTYPE html>
 <!-- saved from url=(0052)file:///C:/Users/shelb/Downloads/fizzbuzz%20(2).html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -33,5 +35,4 @@ function fizzbuzz() {
 
 </body></html>
 
-**Link to readme.md**
-[readme.md](https://github.com/shelbo726/Final-Project/edit/main/README.md).
+
