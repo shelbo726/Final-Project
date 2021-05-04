@@ -1,4 +1,4 @@
-[![Polar Bear](https://pixabay.com/photos/polar-bear-head-snow-lying-animal-2112248/)](https://pixabay.com/)
+[![Polar Bear](https://pixabay.com/photos/polar-bear-head-snow-lying-animal-2112248/)
 
 # Polar Bear 
 This image is a polar bear 
